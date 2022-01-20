@@ -1,5 +1,4 @@
-### React User Login authentication using useContext and useReducer.(Code)
-
+### React authentication application, using hooks
 ## Available Scripts
 
 Run the following command to get started
