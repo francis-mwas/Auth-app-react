@@ -1,10 +1,10 @@
 ### React User Login authentication using useContext and useReducer.(Code)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
-In the project directory, you can run:
+Run the following command to get started
+
+### yarn install
 
 ### `yarn start`
 
