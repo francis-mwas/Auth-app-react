@@ -4,7 +4,7 @@
 
 Run the following command to get started
 
-### yarn install
+### `yarn install`
 
 ### `yarn start`
 
